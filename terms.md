@@ -4,7 +4,7 @@ title: Covary terms of use
 
 # Covary terms of use
 
-By creating an account you agree to these terms. They are short on purpose. How Covary handles your data is in the [privacy policy](https://shrutigits.github.io/covary-legal/).
+You accept these terms on the Consent screen at sign-up, when you tap "Agree and continue". They are short on purpose. How Covary handles your data is in the [privacy policy](https://shrutigits.github.io/covary-legal/).
 
 ## 1. Who runs Covary
 
@@ -50,7 +50,7 @@ You can download your data and delete your account in Settings. Deleting removes
 
 ## 8. Changes
 
-When these terms change, the new version is shown in the app before it applies to you. A future material change raises the consent version, which shows the Consent screen again.
+When these terms change, the new version is published at the Terms of use link in Settings. A future material change also raises the consent version, which shows the Consent screen again.
 
 ## 9. No warranty
 

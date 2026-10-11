@@ -273,7 +273,7 @@ Requests are answered within one month. Covary does not promise a shorter time t
 - Deleting your account destroys your data key, then the files, then the rows. A backup taken before you deleted can still hold your data key and your data until it expires, within 35 days.
 - Your consent is checked at the moment of every read, in one place, including inside the queries that build comparisons.
 - Requests to Covary are logged with the route and the result only. On the fifteen kinds of route that carry personal data the query text is dropped as well, and nothing you send inside a request is written to a log on any route.
-- There is a limit of 10 invites for each member, and there are limits on how often you can sign in, message the companion, build a report, export, upload to your Safe and report a post.
+- There is a limit of 10 invites for each member, and there are limits on how often you can sign in, check an invite code, message the companion, build a report, export, upload to your Safe and report a post.
 - Admin access to production is not standing. An emergency credential lasts one hour, needs a written reason, and raises an alert to the developer before any data is touched.
 - You can lock Covary with your phone's own biometric or passcode. Covary never stores a PIN of its own. The app draws a cover over its own screen before it goes into the app switcher; it cannot stop screenshots or screen recording: on Android this needs a native setting the app does not have yet; on iOS no such setting exists. A neutral app icon can be chosen when the app is built; switching it from inside the app does not work yet.
 - One Google Cloud project, the development project, holds the test version. Production is not in use.
